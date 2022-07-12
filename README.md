@@ -10,6 +10,8 @@ day05 - Ajax, XMLHttpRequest 객체, 서버에 요청하기, open(), send(), set
 
 day06 - 쿠키와 세션
 
-day07 - 쿠키 동작 방식, 쿠키 생성 및 사용 방식, DBCP(DataBase Connection Pool), JNDI(Java Naming and Directory Interface), MyBatis Framework
+day07 - 쿠키 동작 방식, 쿠키 생성 및 사용 방식, DBCP(DataBase Connection Pool), 
+
+        JNDI(Java Naming and Directory Interface), MyBatis Framework
 
 day08 - EL문과 JSTL, MVC
